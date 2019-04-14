@@ -1,0 +1,9 @@
+{
+	"services": [
+		{
+			"name": "service_a",
+			"healthCheckUrl": "undefined"
+		}
+		
+	]
+}
